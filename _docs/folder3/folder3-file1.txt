@@ -1,0 +1,5 @@
+Hi there,
+
+this is the 1st file in the 3rd folder.
+
+Translate this too.
